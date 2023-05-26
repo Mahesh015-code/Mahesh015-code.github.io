@@ -1,9 +1,9 @@
-<h2> Hey there! I'm Rachit.</h2>
+<h2> Hey there! I'm Mahesh.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 -   🤔 &nbsp; Exploring new technologies, chess openings and songs(Heavy Metal and Hip-Hop).
--   🎓 &nbsp; Studying Computer Science and Engineering at Oriental Institute of Science and Technology, Bhopal.
+-   🎓 &nbsp; Studying Computer Science and Engineering at Adhiparashakthi Engineering collage,melmaruvathur.
 -   🌱 &nbsp; Learning more about ReactJS, React Native and the MERN Stack(JavaScript Enthusiast).
 -   ✍️ &nbsp; Blogging is a hobby alongwith playing Basketball and Football.
 
@@ -42,9 +42,9 @@
 
 <p align="center">
 <!-- <a href="https://http://dementedepistles.blogspot.com/"><img alt="Blogs" src="https://img.shields.io/badge/Blogs-Querencia-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/mahesh-m-40411423a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rachit%20Khare-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mahesh-m-40411423a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mahesh%20-blue?style=flat-square&logo=linkedin"></a>
 <!-- <a href="https://www.instagram.com/indeed_the_slimshady/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-indeed_the_slimshady-blue?style=flat-square&logo=instagram"></a> -->
-<a href="mailto:mah91177@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-khare.rachit98@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:mah91177@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mah91177@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Mahesh015-code](https://github.com/Mahesh015-code)
