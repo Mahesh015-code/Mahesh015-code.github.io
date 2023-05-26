@@ -47,4 +47,4 @@
 <a href="mailto:mah91177@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-khare.rachit98@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [ShadowFax1731](https://github.com/ShadowFax1731)
+⭐️ From [Mahesh015-code](https://github.com/Mahesh015-code)
